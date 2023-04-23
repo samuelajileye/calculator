@@ -1,0 +1,19 @@
+.calculator {border-radius: 36px;
+background-color: #e0e0e0;
+box-shadow: 20px 20px 44px #d5d5d5,
+            -20px -20px 44px #ebebeb;
+          padding-top: 10px;
+          padding-bottom: 30px;
+        width: 250px;
+      margin-top: 100px;
+    margin-bottom: 100px;}
+
+.input input {padding: 28px;
+  border-style: none;
+  background-color:  #e0e0e0;;
+  border-radius: 20px;
+
+}
+
+.calculator button {border-radius: 50%; border-style: none; 
+padding: 10px; font-size: smaller; }
